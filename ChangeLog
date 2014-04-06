@@ -1,0 +1,15 @@
+2010-04-23 Sebastiaan de Jonge (SebastiaanDeJonge.com)  <szebi.eger@gmail.com>
+
+	* Fixed bug #7439: Bad icon display on global installation
+
+2010-04-19 Sebastiaan de Jonge (SebastiaanDeJonge.com)  <szebi.eger@gmail.com>
+
+	* Fixed bug #7321: Do not truncate redirects table
+
+2010-04-16 Sebastiaan de Jonge (SebastiaanDeJonge.com)  <szebi.eger@gmail.com>
+
+	* Fixed bug #7295: Fatal error: Interface 'backend_cacheActionsHook' not found
+
+2010-03-30 Sebastiaan de Jonge (SebastiaanDeJonge.com)  <szebi.eger@gmail.com>
+
+	* Initial code generated with kickstarter
